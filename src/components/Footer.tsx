@@ -11,7 +11,7 @@ export default function Footer() {
     { _id: 134, title: 'Privacy Policy', link: '#' },
   ];
   return (
-    <div className="  bg-green-100 w-full">
+    <div className="  bg-green-100 w-full mt-52">
       <Container>
         <div className="flex text-sm flex-col md:flex-row md:item-center gap-2 justify-between">
           <p>© Copyrights Creative Studio</p>
